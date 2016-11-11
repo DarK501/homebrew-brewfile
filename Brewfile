@@ -1,1 +1,1 @@
-cask install firefox
+cask 'install firefox'
