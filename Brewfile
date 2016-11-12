@@ -1,1 +1,2 @@
-cask 'install firefox'
+cask 'firefox'
+cask 'atom'
