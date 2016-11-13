@@ -1,5 +1,8 @@
+brew 'packer'
+
 cask 'vagrant'
 cask 'vagrant-manager'
+
 cask 'firefox'
 cask 'atom'
 cask 'gimp'
