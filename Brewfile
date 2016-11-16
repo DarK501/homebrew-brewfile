@@ -1,5 +1,7 @@
 brew 'packer'
 
+cask 'remote-desktop-manager'
+
 cask 'vagrant'
 cask 'vagrant-manager'
 
