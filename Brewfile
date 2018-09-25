@@ -9,7 +9,7 @@ cask 'evernote'
 cask 'atom'
 cask 'gimp'
 cask 'sourcetree'
-cask 'google-drive'
+cask 'google-backup-and-sync'
 cask 'disk-inventory-x'
 cask 'vmware-remote-console'
 
