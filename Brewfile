@@ -13,6 +13,7 @@ cask 'sourcetree'
 cask 'google-backup-and-sync'
 cask 'disk-inventory-x'
 cask 'keepassx'
+cask 'veracrypt'
 cask 'vmware-remote-console'
 
 cask 'discord'
