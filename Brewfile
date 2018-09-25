@@ -12,6 +12,7 @@ cask 'vlc'
 cask 'sourcetree'
 cask 'google-backup-and-sync'
 cask 'disk-inventory-x'
+cask 'keepassx'
 cask 'vmware-remote-console'
 
 cask 'discord'
