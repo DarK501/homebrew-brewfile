@@ -1,9 +1,8 @@
-brew 'packer', args: { appdir: '~/Applications' }
+brew 'packer'
 
-cask 'vagrant', args: { appdir: '~/Applications' }
-cask 'vagrant-manager', args: { appdir: '~/Applications' }
-cask 'virtualbox', args: { appdir: '~/Applications' }
-cask 'virtualbox-extension-pack', args: { appdir: '~/Applications' }
+cask 'vagrant'
+cask 'virtualbox'
+cask 'virtualbox-extension-pack'
 
 cask 'firefox'
 cask 'evernote'
@@ -12,9 +11,13 @@ cask 'gimp'
 cask 'sourcetree'
 cask 'google-drive'
 cask 'disk-inventory-x'
-cask 'slack', args: { appdir: '~/Applications' }
-cask 'geppetto'
 cask 'vmware-remote-console'
 
+cask 'discord'
+cask 'whatsapp'
+
+cask 'steam'
 cask 'battle-net'
+cask 'origin'
+
 cask 'microsoft-office'
