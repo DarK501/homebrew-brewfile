@@ -1,5 +1,4 @@
 brew 'packer'
-
 cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
@@ -14,7 +13,6 @@ cask 'google-backup-and-sync'
 cask 'disk-inventory-x'
 cask 'keepassx'
 cask 'veracrypt'
-cask 'vmware-remote-console'
 
 cask 'discord'
 cask 'whatsapp'
