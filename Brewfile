@@ -11,14 +11,10 @@ cask 'vlc'
 cask 'sourcetree'
 cask 'google-backup-and-sync'
 cask 'disk-inventory-x'
-cask 'keepassx'
-cask 'veracrypt'
 
-cask 'discord'
-cask 'whatsapp'
-
-cask 'steam'
-cask 'battle-net'
-cask 'origin'
-
+cask 'slack'
 cask 'microsoft-office'
+cask 'mysqlworkbench'
+cask 'nomad'
+cask 'wireshark'
+
