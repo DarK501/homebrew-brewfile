@@ -1,4 +1,4 @@
-cask 'fusion'
+cask 'vmware-fusion'
 
 cask 'firefox'
 cask 'evernote'
