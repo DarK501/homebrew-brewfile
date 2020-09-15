@@ -15,5 +15,5 @@ cask 'whatsapp'
 cask 'osxfuse'
 cask 'steam'
 cask 'origin'
-cask 'battle-net
+cask 'battle-net'
 cask 'veracrypt'
