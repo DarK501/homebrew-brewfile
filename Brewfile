@@ -1,4 +1,4 @@
-install 'rclone'
+'rclone'
 
 cask 'firefox'
 cask 'visual-studio-code'
